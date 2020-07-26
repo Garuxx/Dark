@@ -1,5 +1,5 @@
-# Sensei
-Dark-Fb No Login 100% safe
+# Riyan
+Dark-Fb No Login 100%
 # Module
 ```
 • pip2 install tqdm
