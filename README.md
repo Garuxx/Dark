@@ -9,6 +9,6 @@ Dark-Fb No Login 100%
 # Install
 ```
 • git clone https://github.com/Garuxx/dark
-• cd dark
+• cd Darkin
 • python2 dark.py
 ```
